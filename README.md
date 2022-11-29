@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manusalinas99
 - 👀 I’m interested in basketball
-- 🌱 I’m currently learning full-stack developping
+- 🌱 I’m currently learning full-stack developing
 - 💞️ I’m looking to collaborate on news projects
 - 📫 How to reach me: manuelsalinasporras99@gmail.com
 
